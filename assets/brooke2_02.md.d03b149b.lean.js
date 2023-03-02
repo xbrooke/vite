@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.5bc55f11.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"brooke2/02.md","lastUpdated":1677747995000}'),o={name:"brooke2/02.md"};function r(s,c,n,p,_,d){return t(),a("div")}const f=e(o,[["render",r]]);export{m as __pageData,f as default};
