@@ -1,3 +1,16 @@
+// vite.config.js
+import legacy from '@vitejs/plugin-legacy'
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  plugins: [
+    legacy({
+      targets: ['defaults', 'not IE 11'],
+    }),
+  ],
+}) //引用plugins插件
+
+
 const head = [
   ['link', {rel: 'icon', href: 'https://s2.loli.net/2023/03/03/IduznQDYlVt6MBo.png'}]
 ]
