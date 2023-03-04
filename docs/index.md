@@ -13,8 +13,8 @@ hero:
       text: 点击了解
       link: ./demo1/a
     - theme: alt
-      text: osChina
-      link: https://my.oschina.net/520wsl
+      text: 运营平台
+      link: ./demo1/
 ---
 
 <script setup>
@@ -26,8 +26,14 @@ import {
 
 const members = [
   {
-    avatar: 'https://github.com/xbrooke/vite/blob/main/docs/images/img/haohaozhu.png',
+    avatar: 'https://s2.loli.net/2023/03/04/5EdUFlhjPbrWkyc.png',
     name: '好好住',
+    title: '>>了解详情',
+    sponsor: './brooke/hhz',
+  },
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/5zpAyHsQCe4oBZf.png',
+    name: '土巴兔',
     title: '>>了解详情',
     sponsor: './brooke/hhz',
   },
@@ -35,43 +41,43 @@ const members = [
     avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
     name: '小红书',
     title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
+    sponsor: 'https://github.com/xbrooke',
   },
-    {
-    avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
-    name: '小红书',
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/bNjQc3WrfC4Hy7o.png',
+    name: '美团',
     title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
+    sponsor: 'https://github.com/xbrooke',
   },
-    {
-    avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
-    name: '小红书',
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/2EmjN6k5yi1phCo.png',
+    name: '住小帮',
     title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
+    sponsor: 'https://github.com/xbrooke',
   },
-    {
-    avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
-    name: '小红书',
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/iLaKhfAmdRZp2S6.png',
+    name: '抖音',
     title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
+    sponsor: 'https://github.com/xbrooke',
   },
-    {
-    avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
-    name: '小红书',
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/bN4g6wWKrCTzqHn.png',
+    name: '视频号',
     title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
-  },
-    {
-    avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
-    name: '小红书',
-    title: '>>了解详情',
-    sponsor: 'https://github.com/sponsors/ArnaudBarre',
+    sponsor: 'https://github.com/xbrooke',
   },
   {
     avatar: 'https://s2.loli.net/2023/03/03/SvcQbuDlROh5q8T.png',
     name: '小红书',
     title: '>>了解详情',
     sponsor: 'https://github.com/sponsors/ArnaudBarre',
+  },
+  {
+    avatar: 'https://s2.loli.net/2023/03/04/AhX76MQWpqZxvjc.png',
+    name: '微信公众号',
+    title: '>>了解详情',
+    sponsor: 'https://github.com/xbrooke',
   },
 
 ]
