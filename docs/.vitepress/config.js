@@ -40,39 +40,34 @@ const docFooter = {
 const nav = [
   {text: '首页', link: '/'},
   {
-      text: '我们的优势',
-      activeMatch: '/demo1/',//在同一个文件夹的目录，关联其他目录就不会固定左边栏
-      items: [
-          {
-              text: '团队优势',
-              items: [
-                  {text: '人员架构', link: '/demo1/a'},
-                  {text: '团队技能', link: '/demo1/b'},
-              ]
-              
-          },
-          {
-              text: '运营优势',
-              items: [
-                  {text: '渠道规则', link: '/demo1/a'},
-                  {text: '团队赋能', link: '/demo1/b'},
-                  {text: '精选案例', link: '/brooke/01'},
-              ]
-          } 
-      ],
-      text: '渠道',
-      activeMatch: '/brooke/',//在同一个文件夹的目录，关联其他目录就不会固定左边栏
-      items: [
-          {
-              text: '好好住',
-              items: [
-                  {text: '现代风格', link: '/brooke/01'},
-                  {text: '好好住', link: '/brooke/hhz'},
-              ]
-              
-          }
-      ]
-  }
+    text: '我们的优势', // 顶栏
+    activeMatch: '/demo1/',
+    items: [
+        {
+            text: '团队优势',
+            items: [
+                {text: '人员架构', link: '/demo1/a'},
+                {text: '团队技能', link: '/demo1/b'},
+            ]
+        },
+        {
+            text: '运营优势',
+            items: [
+                {text: '渠道规则', link: '/demo1/a'},
+                {text: '团队赋能', link: '/demo1/b'},
+                {text: '精选案例', link: '/brooke/01'},
+            ]
+        },
+    ]
+},
+{
+    text: '渠道',// 顶栏
+    activeMatch: '好好住',
+    items: [
+      {text: '现代风格', link: '/brooke/01'},
+      {text: '好好住', link: '/brooke/hhz'},
+    ]
+}
 ]
 
 // 全局左侧菜单 显示我们优势的总栏
@@ -181,7 +176,7 @@ module.exports = {
   // 站点lang
   lang: 'zh-CN',
   // 是否显示更新时间
-  lastUpdated: true,
+  //lastUpdated: true,
   // 当设置为true时，VitePress不会因死链接而导致构建失败。
   ignoreDeadLinks: true,
   head
