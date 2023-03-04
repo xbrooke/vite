@@ -25,9 +25,9 @@ const socialLinks = [
 // 页脚配置
 const footer = {
   // 消息
-  message: 'MIT Licensed',
+  message: '蟹蟹有你',
   // 版权
-  copyright: '徐大兵维护为 <a href="https://github.com/xbrooke" target="_black" >MadDragon</a> 所有，保留所有权利。'
+  copyright: '© 2023 <a href="https://github.com/xbrooke" target="_black" ></a> | 徐大兵维护。'
 }
 
 // 上一个和下一个链接上方显示的文本
@@ -56,7 +56,20 @@ const nav = [
               items: [
                   {text: '渠道规则', link: '/demo1/a'},
                   {text: '团队赋能', link: '/demo1/b'},
+                  {text: '精选案例', link: '/brooke/01'},
               ]
+          } 
+      ],
+      text: '渠道',
+      activeMatch: '/brooke/',//在同一个文件夹的目录，关联其他目录就不会固定左边栏
+      items: [
+          {
+              text: '好好住',
+              items: [
+                  {text: '现代风格', link: '/brooke/01'},
+                  {text: '好好住', link: '/brooke/hhz'},
+              ]
+              
           }
       ]
   }
@@ -114,8 +127,22 @@ const sidebar = {
               {text: '2-C', link: '/brooke2/1'}
           ]
       }
+  ],
+  '/brooke/': [
+    {
+        text: '好好住',
+        // 是否可收缩
+        collapsible: true,
+        // 是否折叠
+        collapsed: false,
+        items: [
+            {text: '现代风格', link: '/brooke/01'},
+            {text: '精选案例', link: '/brooke/hhz'},
+        ]
+    }
   ]
 }
+
 
 // 主题配置
 const themeConfig = {
