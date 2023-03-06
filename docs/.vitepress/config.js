@@ -103,7 +103,7 @@ const sidebar = {
         // 是否折叠
         collapsed: false,
         items: [
-            {text: '简介', link: '/haohaozhu/hhz'},
+            {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
             {text: '平台玩法', link: '/brooke/hhz'},
             {text: '编辑精选', link: '/brooke/hhz'},
             {text: '高光时刻', link: '/brooke/hhz'},
