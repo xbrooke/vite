@@ -1,5 +1,6 @@
 ---
 title: 好好住
+
 ---
 
 # 好好住主要版块介绍
@@ -36,24 +37,15 @@ title: 好好住
 
 **好好住精选案例图解**
 
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/01.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/02.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/03.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/04.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/05.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/06.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/07.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/08.jpg" style="zoom:80%;" />
-
-<img src="https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/09.jpg" style="zoom:80%;" />
-
+<img src="https://s2.loli.net/2023/03/06/Rvw75mG9taeC2iY.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/oDyYIhLEtMQAnbC.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/2eMXVWG8AKLSCid.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/Nv29ygdUQbRlZA7.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/qQ3pEmlAebW9ILO.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/ytkYzueRaJUEGDO.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/imHudSVOl7vzqsY.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/Bv1MKNfGbieUEag.jpg" style="zoom:80%;" />
+<img src="https://s2.loli.net/2023/03/06/SK2Q6sXtN5fqAdk.jpg" style="zoom:80%;" />
 
 
 
@@ -95,8 +87,9 @@ title: 好好住
 ## 参与话题
 
 :::tip **每周推荐指数加分项**
+
 每周平台会根据热搜情况，颁布不同的话题，我们根据情况完成相对较的任务获得推荐指数，每周五早上8点更新
 
-![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/83d096e9-aac3-421a-824a-fe009016fefc.png)
+<img src="https://s2.loli.net/2023/03/06/GQnp1Xku5vLcxNq.png" style="zoom:80%;" />
 
 :::
