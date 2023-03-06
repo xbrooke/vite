@@ -1,23 +1,23 @@
 ---
-sidebar: false
+title: 好好住
+
 ---
 
-# 好好住
 :::tip 提示
 好好住是以设计为主的内容平台，主要流量版块分为整屋案例、装修设计灵感、避坑干货、户型风格榜单等
 :::
-[^这是脚注]:？？
 
 ## 整屋案例
 
 设计师整屋案例 **[编辑精选]** 是官方编辑审核评选，是官方认可的标志<br>熟悉平台精选案例规则，并与对接辅导员{.notice}
 
-## 案例结构完整
+
+
+### 案例结构完整
 
 结构清晰、图文并茂、干活满满的案例更受客户喜欢，能让客户快速get设计师的专业能力{.notice}
 
 - `封面图`（前后对比）
-
 
 - `标题 `（突出户型改造重点或者设计亮点）
 
@@ -31,3 +31,57 @@ sidebar: false
 
   
 
+**好好住精选案例图解**
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/01.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/02.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/03.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/04.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/05.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/06.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/07.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/08.jpg)
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/09.jpg)
+
+
+
+# 推荐指数 
+
+:::tip 流量曝光密码
+完成每周任务，可以提高周推荐指数，从而带来流量曝光
+:::
+
+### 固定周任务
+
+- `发布整屋案例`   
+
+  基础案例，发布案例就可以获得此项任务指数
+
+- `Before&After整屋`
+
+  在案例的基础上，在增加前后对比图如（客厅前后对比、餐厅前后对比....等）
+
+- `设置服务流程`
+
+  账号的基础设置，一般这个任务最容易完成
+
+- `整屋获得编辑精选`
+
+  在完成整屋案例基础下，通过平台编辑审核后，便可以获得推荐指数。
+
+### 参与话题 
+
+:::tip **每周推荐指数加分项**
+每周平台会根据热搜情况，颁布不同的话题，我们根据情况完成相对较的任务获得推荐指数，每周五早上8点更新
+
+![](https://cdn.jsdelivr.net/gh/xbrooke/img/brooke/83d096e9-aac3-421a-824a-fe009016fefc.png)
+
+:::
