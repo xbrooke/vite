@@ -77,9 +77,8 @@ const nav = [
     text: '渠道',// 顶栏
     activeMatch: '好好住',
     items: [
-      {text: '文章语法', link: '/brooke/yufa'},
       {text: '好好住', link: '/brooke/hhz'},
-      {text: '好好住', link: '/brooke/01'},
+      {text: '风格案例', link: '/brooke/01'},
     ]
 }
 ]
@@ -122,21 +121,8 @@ const sidebar = {
         ]
     }
   ],
+  
   //第二栏不会出现第一栏的内容标题
-  '/demo2/': [
-      {
-          text: '案例2',
-          // 是否可收缩
-          collapsible: true,
-          // 是否默认展开
-          collapsed: true,
-          items: [
-              {text: '2-A', link: '/brooke2/1'},
-              {text: '2-B', link: '/brooke2/1'},
-              {text: '2-C', link: '/brooke2/1'}
-          ]
-      }
-  ],
   '/brooke/': [
     {
         text: '好好住',
@@ -147,6 +133,7 @@ const sidebar = {
         items: [
             {text: '现代风格', link: '/brooke/01'},
             {text: '精选案例', link: '/brooke/hhz'},
+            {text: '文章语法', link: '/brooke/yufa'},
         ]
     }
   ]
