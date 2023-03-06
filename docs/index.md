@@ -29,7 +29,7 @@ const members = [
     avatar: 'https://s2.loli.net/2023/03/04/5EdUFlhjPbrWkyc.png',
     name: '好好住',
     title: '>>了解详情',
-    sponsor: './brooke/hhz',
+    sponsor: './haohaozhu/xianshang',
   },
   {
     avatar: 'https://s2.loli.net/2023/03/04/5zpAyHsQCe4oBZf.png',
