@@ -10,6 +10,7 @@
     "clog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
   },
   "devDependencies": {
+    "@vitejs/plugin-legacy": "^4.0.1",
     "vitepress": "^1.0.0-alpha.49",
     "vue": "^3.2.47"
   },
