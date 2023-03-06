@@ -77,8 +77,9 @@ const nav = [
     text: '渠道',// 顶栏
     activeMatch: '好好住',
     items: [
-      {text: '现代风格', link: '/brooke/01'},
+      {text: '文章语法', link: '/brooke/yufa'},
       {text: '好好住', link: '/brooke/hhz'},
+      {text: '好好住', link: '/brooke/01'},
     ]
 }
 ]
