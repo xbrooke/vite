@@ -52,7 +52,35 @@ const docFooter = {
 // 顶部导航
 const nav = [
   {text: '首页', link: '/'},
-
+  {
+    text: '我们的优势', // 顶栏
+    activeMatch: '/demo1/',
+    items: [
+        {
+            text: '团队优势',
+            items: [
+                {text: '人员架构', link: '/demo1/a'},
+                {text: '团队技能', link: '/demo1/b'},
+            ]
+        },
+        {
+            text: '运营优势',
+            items: [
+                {text: '渠道规则', link: '/demo1/a'},
+                {text: '团队赋能', link: '/demo1/b'},
+                {text: '精选案例', link: '/brooke/01'},
+            ]
+        },
+    ]
+},
+{
+    text: '渠道',// 顶栏
+    activeMatch: '好好住',
+    items: [
+      {text: '好好住', link: '/brooke/hhz'},
+      {text: '风格案例', link: '/brooke/01'},
+    ]
+}
 ]
 
 // 全局左侧菜单 显示我们优势的总栏
