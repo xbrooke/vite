@@ -79,6 +79,7 @@ const nav = [
     items: [
       {text: '好好住', link: '/brooke/hhz'},
       {text: '风格案例', link: '/brooke/01'},
+      {text: '文章语法', link: '/brooke/yufa'},
     ]
 }
 ]
