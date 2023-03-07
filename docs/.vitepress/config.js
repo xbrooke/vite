@@ -1,15 +1,4 @@
 // vite.config.js
-import legacy from '@vitejs/plugin-legacy'
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-  plugins: [
-    legacy({
-      targets: ['defaults', 'not IE 11'],
-    }),
-  ],
-}) //引用plugins插件
-
 
 const head = [
   ['link', {rel: 'icon', href: 'https://s2.loli.net/2023/03/03/IduznQDYlVt6MBo.png'}]
@@ -57,39 +46,55 @@ const nav = [
 
 // 全局左侧菜单 显示我们优势的总栏
 const sidebar = {
-  '/demo1/': [
+  '/brooke/': [
       {
-          text: '我们的优势',
+         text: '介绍',
+         // 是否可收缩
+         collapsible: true,
+         // 是否折叠
+         collapsed: false,
+         items: [
+          {text: '为什么要做线上', link: '/brooke/xianshang'},       
+         ]
+      },
+      {
+          text: '好好住',
           // 是否可收缩
           collapsible: true,
           // 是否折叠
           collapsed: false,
           items: [
-              {text: '运营团队', link: '/demo2/a'},
-              {text: '团队赋能', link: '/demo2/b'},
-          ]
+            {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
+            {text: '平台玩法', link: '/haohaozhu//hhz'},
+            {text: '编辑精选', link: '/haohaozhu/anli'},
+            {text: '高光时刻', link: '/haohaozhu/ggsk'},
+            {text: '文章语法', link: '/haohaozhu/yufa'},
+          ]   
       },
       {
-        text: '运营优势',
+        text: '土巴兔',
         // 是否可收缩
         collapsible: true,
         // 是否折叠
         collapsed: false,
         items: [
-            {text: '渠道规则', link: '/demo1/a'},
-            {text: '好好住', link: '/brooke/hhz'},
+            {text: '平台玩法', link: '/tubatu//01'},
+            {text: '编辑精选', link: '/tubatu//02'},
+            {text: '高光时刻', link: '/tubatu//03'},
+            {text: '文章语法', link: '/tubatu//04'},
         ]
     },
       {
-        text: '优秀案例',
+        text: '住小帮',
         // 是否可收缩
         collapsible: true,
         // 是否折叠
         collapsed: false,
         items: [
-            {text: '2-A', link: '/demo1/a'},
-            {text: '2-B', link: '/brooke2/2'},
-            {text: '2-C', link: '/brooke2/1'}
+          {text: '平台玩法', link: '/tubatu//01'},
+          {text: '编辑精选', link: '/tubatu//02'},
+          {text: '高光时刻', link: '/tubatu//03'},
+          {text: '文章语法', link: '/tubatu//04'},
         ]
     }
   ],
@@ -106,8 +111,8 @@ const sidebar = {
             {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
             {text: '平台玩法', link: '/haohaozhu//hhz'},
             {text: '编辑精选', link: '/haohaozhu/anli'},
-            {text: '高光时刻', link: '/haohaozhu/02'},
-            {text: '文章语法', link: '/haohaozhu/03'},
+            {text: '高光时刻', link: '/haohaozhu/ggsk'},
+            {text: '文章语法', link: '/haohaozhu/yufa'},
         ]
     }
   ],
@@ -119,10 +124,10 @@ const sidebar = {
         // 是否折叠
         collapsed: false,
         items: [
-            {text: '平台玩法', link: '/haohaozhu//hhz'},
-            {text: '编辑精选', link: '/haohaozhu/anli'},
-            {text: '高光时刻', link: '/haohaozhu/02'},
-            {text: '文章语法', link: '/haohaozhu/03'},
+            {text: '平台玩法', link: '/tubatu//01'},
+            {text: '编辑精选', link: '/tubatu//02'},
+            {text: '高光时刻', link: '/tubatu//03'},
+            {text: '文章语法', link: '/tubatu//04'},
         ]
     }
   ]

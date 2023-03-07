@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 点击了解
-      link: ./demo1/a
+      link: ./brooke/xianshang
     - theme: alt
       text: 运营平台
-      link: ./demo1/
+      link: ./brooke/
 ---
 
 <script setup>
