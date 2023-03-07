@@ -64,11 +64,10 @@ const sidebar = {
           // 是否折叠
           collapsed: false,
           items: [
-            {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
-            {text: '平台玩法', link: '/haohaozhu//hhz'},
-            {text: '编辑精选', link: '/haohaozhu/anli'},
-            {text: '高光时刻', link: '/haohaozhu/ggsk'},
-            {text: '文章语法', link: '/haohaozhu/yufa'},
+            {text: '平台玩法', link: '/brooke/haohaozhu//hhz'},
+            {text: '编辑精选', link: '/brooke/haohaozhu/anli'},
+            {text: '高光时刻', link: '/brooke/haohaozhu/ggsk'},
+            {text: '文章语法', link: '/brooke/haohaozhu/yufa'},
           ]   
       },
       {
@@ -78,10 +77,10 @@ const sidebar = {
         // 是否折叠
         collapsed: false,
         items: [
-            {text: '平台玩法', link: '/tubatu//01'},
-            {text: '编辑精选', link: '/tubatu//02'},
-            {text: '高光时刻', link: '/tubatu//03'},
-            {text: '文章语法', link: '/tubatu//04'},
+            {text: '平台玩法', link: '/brooke/tubatu//01'},
+            {text: '编辑精选', link: '/brooke/tubatu//02'},
+            {text: '高光时刻', link: '/brooke/tubatu//03'},
+            {text: '文章语法', link: '/brooke/tubatu//04'},
         ]
     },
       {
@@ -91,46 +90,31 @@ const sidebar = {
         // 是否折叠
         collapsed: false,
         items: [
-          {text: '平台玩法', link: '/tubatu//01'},
-          {text: '编辑精选', link: '/tubatu//02'},
-          {text: '高光时刻', link: '/tubatu//03'},
-          {text: '文章语法', link: '/tubatu//04'},
+          {text: '平台玩法', link: '/brooke/tubatu//01'},
+          {text: '编辑精选', link: '/brooke/tubatu//02'},
+          {text: '高光时刻', link: '/brooke/tubatu//03'},
+          {text: '文章语法', link: '/brooke/tubatu//04'},
         ]
     }
   ],
   
   //第二栏不会出现第一栏的内容标题
-  '/haohaozhu/': [
-    {
-        text: '好好住',
+  //'/haohaozhu/': [
+   // {
+    //    text: '好好住',
         // 是否可收缩
-        collapsible: true,
+      //  collapsible: true,
         // 是否折叠
-        collapsed: false,
-        items: [
-            {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
-            {text: '平台玩法', link: '/haohaozhu//hhz'},
-            {text: '编辑精选', link: '/haohaozhu/anli'},
-            {text: '高光时刻', link: '/haohaozhu/ggsk'},
-            {text: '文章语法', link: '/haohaozhu/yufa'},
-        ]
-    }
-  ],
-  '/tubatu/': [
-    {
-        text: '土巴兔',
-        // 是否可收缩
-        collapsible: true,
-        // 是否折叠
-        collapsed: false,
-        items: [
-            {text: '平台玩法', link: '/tubatu//01'},
-            {text: '编辑精选', link: '/tubatu//02'},
-            {text: '高光时刻', link: '/tubatu//03'},
-            {text: '文章语法', link: '/tubatu//04'},
-        ]
-    }
-  ]
+     //   collapsed: false,
+     //   items: [
+     //       {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
+      //      {text: '平台玩法', link: '/haohaozhu//hhz'},
+      //      {text: '编辑精选', link: '/haohaozhu/anli'},
+       //     {text: '高光时刻', link: '/haohaozhu/ggsk'},
+      //      {text: '文章语法', link: '/haohaozhu/yufa'},
+      //  ]
+    //}
+ // ], 
 }
 
 
@@ -143,7 +127,7 @@ const themeConfig = {
   // 站点标题
   siteTitle: '蟹蟹有你',
   // 最后跟新时间标题
-  lastUpdatedText: '上次更新',
+  //lastUpdatedText: '上次更新',
   // logo
   logo: 'https://s2.loli.net/2023/03/03/IduznQDYlVt6MBo.png',
   // 社交链接
@@ -153,10 +137,10 @@ const themeConfig = {
   // 上一个和下一个链接上方显示的文本
   docFooter,
   // 右侧目录标题
-  outlineTitle: '本页目录'
+  outlineTitle: '本页目录',
 }
 
-// APP配置
+// APP配,
 module.exports = {
   // 主题配置
   themeConfig,
