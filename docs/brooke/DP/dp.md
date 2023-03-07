@@ -1,4 +1,4 @@
-# ☺大众点评
+# 大众点评
 
 
 
@@ -41,5 +41,3 @@
 <img src="https://s2.loli.net/2023/03/07/Vhn1w3iNorb5qfU.png" style="zoom:80%;" />
 
 ## 💗平台玩法：专注性价比，销量为王
-
-<img src="C:\Users\Brooke\AppData\Roaming\Typora\typora-user-images\image-20230307181120603.png" alt="image-20230307181120603" style="zoom:80%;" />
