@@ -104,10 +104,25 @@ const sidebar = {
         collapsed: false,
         items: [
             {text: '为什么要做线上', link: '/haohaozhu/xianshang'},
-            {text: '平台玩法', link: '/brooke/hhz'},
-            {text: '编辑精选', link: '/brooke/hhz'},
-            {text: '高光时刻', link: '/brooke/hhz'},
-            {text: '文章语法', link: '/brooke/yufa'},
+            {text: '平台玩法', link: '/haohaozhu//hhz'},
+            {text: '编辑精选', link: '/haohaozhu/anli'},
+            {text: '高光时刻', link: '/haohaozhu/02'},
+            {text: '文章语法', link: '/haohaozhu/03'},
+        ]
+    }
+  ],
+  '/tubatu/': [
+    {
+        text: '土巴兔',
+        // 是否可收缩
+        collapsible: true,
+        // 是否折叠
+        collapsed: false,
+        items: [
+            {text: '平台玩法', link: '/haohaozhu//hhz'},
+            {text: '编辑精选', link: '/haohaozhu/anli'},
+            {text: '高光时刻', link: '/haohaozhu/02'},
+            {text: '文章语法', link: '/haohaozhu/03'},
         ]
     }
   ]
@@ -147,7 +162,7 @@ module.exports = {
   // 站点说明
   description: '徐大兵',
   // base URL
-  base: '/vite/',
+  base: '/vite/haohaozhu/',
   // 站点lang
   lang: 'zh-CN',
   // 是否显示更新时间
