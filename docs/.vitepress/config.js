@@ -83,6 +83,19 @@ const sidebar = {
             {text: '文章语法', link: '/brooke/tubatu//04'},
         ]
     },
+    {
+        text: '大众点评',
+        // 是否可收缩
+        collapsible: true,
+        // 是否折叠
+        collapsed: false,
+        items: [
+          {text: '平台简介', link: '/brooke/DP/dp'},
+          {text: '编辑精选', link: '/brooke/tubatu//02'},
+          {text: '高光时刻', link: '/brooke/tubatu//03'},
+          {text: '文章语法', link: '/brooke/tubatu//04'},
+        ]
+      },
       {
         text: '住小帮',
         // 是否可收缩
