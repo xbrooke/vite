@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.d6da11ea.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"haohaozhu/ggsk.md"}'),o={name:"haohaozhu/ggsk.md"};function s(r,c,n,p,_,d){return t(),a("div")}const m=e(o,[["render",s]]);export{i as __pageData,m as default};
