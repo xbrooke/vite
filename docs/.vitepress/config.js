@@ -34,8 +34,8 @@ const footer = {
 
 // 上一个和下一个链接上方显示的文本
 const docFooter = {
-  prev: '测试',
-  next: 'https://github.com/'
+  prev: '上一篇',
+  next: '下一篇'
 }
 
 // 顶部导航
