@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 点击了解
-      link: ./brooke/xianshang
+      link: ./brooke/cc
     - theme: alt
       text: 运营平台
-      link: ./brooke/
+      link: ./brooke/cc
   features:
   - title: SF Map Graph
     details: 提供一系列的柱状、饼状等组件，此外还有文字滚动、时间轴等特殊组件.
