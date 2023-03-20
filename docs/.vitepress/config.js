@@ -164,7 +164,7 @@ module.exports = {
   // 站点说明
   description: '徐大兵',
   // base URL
-  base: './vite/',
+  base: '',
   // 站点lang
   lang: 'zh-CN',
   // 是否显示更新时间
