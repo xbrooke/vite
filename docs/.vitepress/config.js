@@ -27,7 +27,7 @@ const socialLinks = [
 // 页脚配置
 const footer = {
   // 消息
-  message: '蟹蟹有你',
+  message: '徐大兵',
   // 版权
   copyright: '© 2023 <a href="https://github.com/xbrooke" target="_black" ></a> | 徐大兵维护。'
 }
@@ -54,7 +54,7 @@ const sidebar = {
          // 是否折叠
          collapsed: false,
          items: [
-          {text: '为什么要做线上', link: '/brooke/xianshang'},       
+          {text: '内容创作', link: '/brooke/cc'},       
          ]
       },
       {
@@ -138,7 +138,7 @@ const themeConfig = {
   // 顶部导航
   nav,
   // 站点标题
-  siteTitle: '蟹蟹有你',
+  siteTitle: '徐大兵的运营库',
   // 最后跟新时间标题
   //lastUpdatedText: '上次更新',
   // logo
@@ -160,7 +160,7 @@ module.exports = {
   // markdown 配置
   markdown,
   // 站点标题
-  title: '运营文档库',
+  title: '徐大兵的运营文档库',
   // 站点说明
   description: '徐大兵',
   // base URL
